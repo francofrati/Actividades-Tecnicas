@@ -6,5 +6,5 @@ Ademas implemente yup para las validaciones, sweetalert para el modal y react-ic
 
 # Como correrlo:
 
-- Estando en la terminal pararse en la ruta: 'Actividades-Tecnicas/formulario' y ejecutar: 'npm install'
-- En la misma ruta ejecutar:'npm start' y se tendria que abrir en el navegador el formulario. En caso que no se abra dirigirse a 'http://localhost:3000/'
+- Estando en la terminal pararse en la ruta: "Actividades-Tecnicas/formulario" y ejecutar: "npm install"
+- En la misma ruta ejecutar:"npm start" y se tendria que abrir en el navegador el formulario. En caso que no se abra dirigirse a "http://localhost:3000/"
