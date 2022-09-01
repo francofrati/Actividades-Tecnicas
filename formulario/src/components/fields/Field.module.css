@@ -1,0 +1,42 @@
+.inp_container {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    width: 100%;
+    max-width: 80rem;
+    position: relative;
+    font-size: 1.5rem;
+}
+
+.inp {
+    font-size: 1.2rem;
+    border-radius: 3px;
+    outline: none;
+    height: 1.5rem;
+    border: 1px solid grey;
+    padding: 8px;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 1.5rem;
+}
+
+.inp:focus {
+    outline: none;
+}
+
+.err {
+    border: 1.5px solid red;
+}
+
+.err_text {
+    color: red;
+    font-size: 1rem;
+    font-weight: lighter;
+    position: absolute;
+    top: 4rem;
+}
+.icon{
+    position: absolute;
+    top: 2.9rem;
+    right: 0;
+}
